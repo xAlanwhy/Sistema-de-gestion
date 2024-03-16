@@ -1,0 +1,11 @@
+D:\Documents\programacion 3\sistema gestion\sistema gestion\bin\Debug\sistema gestion.exe.config
+D:\Documents\programacion 3\sistema gestion\sistema gestion\bin\Debug\sistema gestion.exe
+D:\Documents\programacion 3\sistema gestion\sistema gestion\bin\Debug\sistema gestion.pdb
+D:\Documents\programacion 3\sistema gestion\sistema gestion\obj\Debug\sistema gestion.csproj.AssemblyReference.cache
+D:\Documents\programacion 3\sistema gestion\sistema gestion\obj\Debug\sistema_gestion.Form1.resources
+D:\Documents\programacion 3\sistema gestion\sistema gestion\obj\Debug\sistema_gestion.Properties.Resources.resources
+D:\Documents\programacion 3\sistema gestion\sistema gestion\obj\Debug\sistema gestion.csproj.GenerateResource.cache
+D:\Documents\programacion 3\sistema gestion\sistema gestion\obj\Debug\sistema gestion.csproj.CoreCompileInputs.cache
+D:\Documents\programacion 3\sistema gestion\sistema gestion\obj\Debug\sistema gestion.exe
+D:\Documents\programacion 3\sistema gestion\sistema gestion\obj\Debug\sistema gestion.pdb
+D:\Documents\programacion 3\sistema gestion\sistema gestion\obj\Debug\sistema_gestion.menu.resources
